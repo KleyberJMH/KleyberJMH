@@ -4,9 +4,8 @@ Hola 👋 Mi nombre es Kleyber Mantilla
 Desarrollador Web
 -----------------
 
-Tengo 5 años de estudios en Informática y había puesto en pausa mi carrera en el mundo del desarrollo por lo que he olvidado prácticamente todo lo que aprendí durante ese tiempo pero he vuelto, para esto decidí asumir que no se nada y empezar de nuevo aprendiendo todo desde 0.
-
-* 🌍  Soy Venezolano pero actualmente vivo en Chile.
+ Todos los días se aprende algo nuevo. Estudié y me gradue de Ingeniería en Informática durante 5 años y por motivos personales tuve que tomar un descanso de mi carrera en desarrollo y terminé olvidando casi todo. Por lo cual decidí volver a empezar de cero y reaprender todo de nuevo y retomar este hermoso mundo de la programación 
+* 🌍  Soy Venezolano pero actualmente vivo en España.
 * 🖥️  Puedes ver mi portafolio en [En construccion](#)
 * 🚀  Actualmente estoy trabajando en [Nada de momento](#)
 * 🧠  Estoy aprendiendo y recordando HTML, CSS, Javascript y React
