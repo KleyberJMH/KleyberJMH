@@ -7,7 +7,7 @@ Desarrollador Web
  Todos los días se aprende algo nuevo. Estudié y me gradue de Ingeniería en Informática durante 5 años y por motivos personales tuve que tomar un descanso de mi carrera en desarrollo y terminé olvidando casi todo. Por lo cual decidí volver a empezar de cero y reaprender todo de nuevo y retomar este hermoso mundo de la programación 
 * 🌍  Soy Venezolano pero actualmente vivo en España.
 * 🖥️  Puedes ver mi portafolio en [En construccion](#)
-* 🚀  Actualmente estoy trabajando en [Nada de momento](#)
+* 🚀  Actualmente estoy trabajando en [Mi Portafolio](https://kleyberjmh.github.io/)
 * 🧠  Estoy aprendiendo y recordando HTML, CSS, Javascript, Java y Angular
 * 🤝  Estoy interesado en colaborar en proyectos que estén entre mis capacidades o me permitan mejorar mis habilidades
 
