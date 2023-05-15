@@ -3,6 +3,7 @@ Soy un Desarrollador Junior Fullstack 💻.<br>
 Naci en Venezuela 🇻🇪 y actualmente estoy viviendo en España 🇪🇦, estudié ingeniería en informática y me apasiona el mundo de la programación 🧑🏻‍💻.<br><br>
 🎯 Mi meta es llegar a aportar contenido de calidad para esta gran comunidad.<br>
 💼 Mi Portafolio. (Aun no está terminado)<br>
+🚀 Actualmente trabajando en una IA llamada [UnderscoOre](https://github.com/KleyberJMH/UnderscoOre)
 📘 Sigo actualizando e incrementando mis conocimientos en la programación.<br>
 📧 Si necesitas contactarte conmigo<br>
 Kleyberjmh@gmail.com
