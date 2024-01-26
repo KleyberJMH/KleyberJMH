@@ -4,7 +4,7 @@ Naci en Venezuela 🇻🇪 y actualmente estoy viviendo en España 🇪🇦, est
 🎯 Mi meta es llegar a aportar contenido de calidad para esta gran comunidad.<br>
 💼 Mi Portafolio. (Aun no está terminado)<br>
 🚀 Actualmente trabajando en una web que hace uso de IA llamada [UnderscoOre](https://github.com/KleyberJMH/UnderscoOre)<br>
-🏅 Tambien estoy participando en la hackaton de InfoJobs organizada por Midudev. <br>
+🏅 Tambien participé en la hackaton de InfoJobs organizada por Midudev. <br>
 📘 Sigo actualizando e incrementando mis conocimientos en la programación.<br>
 📧 Si necesitas contactarte conmigo escribeme a:<br>
 Kleyberjmh@gmail.com
